@@ -6,5 +6,52 @@
     "Latent diffusion architecture",
     "Consistency models",
     "Flow matching diffusion"
+  ],
+  "research_study_list": [
+    {
+      "title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers"
+    },
+    {
+      "title": "Functional Diffusion"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "A Unified Framework for U-Net Design and Analysis"
+    },
+    {
+      "title": "ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection"
+    },
+    {
+      "title": "Binary Latent Diffusion"
+    },
+    {
+      "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models"
+    },
+    {
+      "title": "Latent Diffusion for Language Generation"
+    },
+    {
+      "title": "Wisdom of the Ensemble: Improving Consistency of Deep Learning Models"
+    },
+    {
+      "title": "Consistency Models"
+    },
+    {
+      "title": "Sampling is as easy as keeping the consistency: convergence guarantee for Consistency Models"
+    },
+    {
+      "title": "Flow Matching for Generative Modeling"
+    },
+    {
+      "title": "Diffusion Model for Dense Matching"
+    },
+    {
+      "title": "Diffusion Model for Dense Matching"
+    }
   ]
 }
